@@ -4,7 +4,7 @@ A collection of CS50 assignments and my solutions
 | Week          | Assignment    | Link                                                                       | Description                                         |
 | ------------- |---------------| ---------------------------------------------------------------------------|-----------------------------------------------------|
 | 1             | Credit        | [credit.c](https://github.com/seidbar/cs50/blob/main/credit.c)             | Evaluates a credit card number                      | 
-| 1             | Mario         | [mario.c](https://github.com/seidbar/cs50/blob/main/mario.c)               | Prints a pyramide using loops                       |
+| 1             | Mario         | [mario.c](https://github.com/seidbar/cs50/blob/main/mario.c)               | Prints a pyramid using loops                        |
 | 1             | Population    | [population.c](https://github.com/seidbar/cs50/blob/main/population.c)     | Calculates population growth                        |
 | 2             | Readability   | [readability.c](https://github.com/seidbar/cs50/blob/main/readability.c)   | Calculates the complexity of a text                 |
 | 2             | Scrabble      | [scrabble.c](https://github.com/seidbar/cs50/blob/main/scrabble.c)         | Calculates the score of a given phrase              |
