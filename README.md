@@ -14,3 +14,4 @@ A collection of CS50 assignments and my solutions
 | 4             | Volume        | [volume.c](https://github.com/seidbar/cs50/blob/main/volume.c)             | Changes the volume of a given .wav                  |
 | 4             | Recover       | [recover.c](https://github.com/seidbar/cs50/blob/main/recover.c)           | Recovers .jpegs from a distorted file system        |
 | 4             | Filter        | [filter.c](https://github.com/seidbar/cs50/tree/main/filter)               | Applies sepia, grayscale or blur filters to a .bmp  |
+| 5             | Inheritance   | [inheritance.c](https://github.com/seidbar/cs50/blob/main/inheritance.c)   | Simulates a families blood type history.            |
