@@ -16,5 +16,10 @@ A collection of CS50 assignments and my solutions
 | 4             | Filter        | [filter.c](https://github.com/seidbar/cs50/tree/main/filter)               | Applies sepia, grayscale or blur filters to a .bmp  |
 | 5             | Inheritance   | [inheritance.c](https://github.com/seidbar/cs50/blob/main/inheritance.c)   | Simulates a families blood type history.            |
 | 5             | Speller       | [speller.c](https://github.com/seidbar/cs50/blob/main/speller.c)           | Checks for correct spelling using a dictionary.     |
+| 6             | Credit        | [credit.py](https://github.com/seidbar/cs50/blob/main/credit.py)           | Evaluates a credit card number                      | 
+| 6             | Mario         | [mario.py](https://github.com/seidbar/cs50/blob/main/mario.py)             | Prints a pyramid using loops                        |
+| 6             | Readability   | [readability.py](https://github.com/seidbar/cs50/blob/main/readability.py) | Calculates the complexity of a text                 |
+| 6             | DNA           | [dna.py](https://github.com/seidbar/cs50/blob/main/dna.py)                 | Identifies to whom a DNA string belongs.            |
+| 7             | Fiftyville    | [fiftyville.sql](https://github.com/seidbar/cs50/blob/main/fiftyville.sql) | Solves a theft mystery scenario.                    |
 
 
